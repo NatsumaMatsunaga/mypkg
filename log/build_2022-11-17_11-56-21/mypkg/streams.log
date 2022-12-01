@@ -1,0 +1,21 @@
+[0.935s] Invoking command in '/home/matsunaga/ros2_ws/src/mypkg': PYTHONPATH=/home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/build install --prefix /home/matsunaga/ros2_ws/src/mypkg/install/mypkg --record /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/install.log --single-version-externally-managed
+[1.231s] running egg_info
+[1.232s] writing build/mypkg/mypkg.egg-info/PKG-INFO
+[1.233s] writing dependency_links to build/mypkg/mypkg.egg-info/dependency_links.txt
+[1.234s] writing entry points to build/mypkg/mypkg.egg-info/entry_points.txt
+[1.234s] writing requirements to build/mypkg/mypkg.egg-info/requires.txt
+[1.234s] writing top-level names to build/mypkg/mypkg.egg-info/top_level.txt
+[1.287s] reading manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.288s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.289s] running build
+[1.289s] running build_py
+[1.289s] running install
+[1.291s] running install_lib
+[1.293s] running install_data
+[1.294s] running install_egg_info
+[1.296s] removing '/home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[1.297s] Copying build/mypkg/mypkg.egg-info to /home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[1.299s] running install_scripts
+[1.328s] Installing talker script to /home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[1.328s] writing list of installed files to '/home/matsunaga/ros2_ws/src/mypkg/build/mypkg/install.log'
+[1.380s] Invoked command in '/home/matsunaga/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/build install --prefix /home/matsunaga/ros2_ws/src/mypkg/install/mypkg --record /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/install.log --single-version-externally-managed

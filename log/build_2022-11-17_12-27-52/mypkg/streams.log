@@ -1,0 +1,28 @@
+[1.295s] Invoking command in '/home/matsunaga/ros2_ws/src/mypkg': PYTHONPATH=/home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/build install --prefix /home/matsunaga/ros2_ws/src/mypkg/install/mypkg --record /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/install.log --single-version-externally-managed
+[1.676s] running egg_info
+[1.678s] writing build/mypkg/mypkg.egg-info/PKG-INFO
+[1.678s] writing dependency_links to build/mypkg/mypkg.egg-info/dependency_links.txt
+[1.679s] writing entry points to build/mypkg/mypkg.egg-info/entry_points.txt
+[1.680s] writing requirements to build/mypkg/mypkg.egg-info/requires.txt
+[1.681s] writing top-level names to build/mypkg/mypkg.egg-info/top_level.txt
+[1.760s] reading manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.761s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.762s] running build
+[1.763s] running build_py
+[1.763s] copying mypkg/talker.py -> /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg
+[1.764s] copying mypkg/listener.py -> /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg
+[1.765s] running install
+[1.767s] running install_lib
+[1.768s] copying /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg/talker.py -> /home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg
+[1.769s] copying /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/build/lib/mypkg/listener.py -> /home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg
+[1.770s] byte-compiling /home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg/talker.py to talker.cpython-38.pyc
+[1.773s] byte-compiling /home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg/listener.py to listener.cpython-38.pyc
+[1.774s] running install_data
+[1.775s] running install_egg_info
+[1.777s] removing '/home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[1.778s] Copying build/mypkg/mypkg.egg-info to /home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[1.780s] running install_scripts
+[1.809s] Installing listener script to /home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[1.810s] Installing talker script to /home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[1.811s] writing list of installed files to '/home/matsunaga/ros2_ws/src/mypkg/build/mypkg/install.log'
+[1.850s] Invoked command in '/home/matsunaga/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/matsunaga/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/build install --prefix /home/matsunaga/ros2_ws/src/mypkg/install/mypkg --record /home/matsunaga/ros2_ws/src/mypkg/build/mypkg/install.log --single-version-externally-managed
