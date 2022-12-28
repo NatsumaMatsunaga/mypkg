@@ -4,15 +4,12 @@
  ## 実行方法
  * 端末を二つ開く
    * 端末1
-   
       `` $ ros2 run mypkg talker ``
      
    * 端末2
-   
       `` $ ros2 run mypkg listener ``
      
  * 実行例
- 
  ``` 
  [INFO] [1672248072.470772772] [listener]: Listen: 57 
  [INFO] [1672248072.970641864] [listener]: Listen: 58 
