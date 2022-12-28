@@ -9,7 +9,7 @@
      
    * 端末2
    
-      `` $ ros2 run mypkg listener
+      `` $ ros2 run mypkg listener ``
  
  ## LICENSE
 
