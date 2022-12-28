@@ -8,6 +8,8 @@
       `` $ ros2 run mypkg talker ``
      
    * 端末2
+   
+      `` $ ros2 run mypkg listener
  
  ## LICENSE
 
