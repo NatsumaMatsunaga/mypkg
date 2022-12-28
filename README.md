@@ -1,7 +1,7 @@
 # mypkg
  * このリポジトリはROS2のパッケージです。
  
- ## 実行例
+ ## 実行方法
  * 端末を二つ開く
    * 端末1
    
@@ -10,6 +10,14 @@
    * 端末2
    
       `` $ ros2 run mypkg listener ``
+     
+ * 実行例
+ `` [INFO] [1672248072.470772772] [listener]: Listen: 57 ``
+ `` [INFO] [1672248072.970641864] [listener]: Listen: 58 ``
+ `` [INFO] [1672248073.470732241] [listener]: Listen: 59 ``
+ `` [INFO] [1672248073.970678738] [listener]: Listen: 60 ``
+ `` [INFO] [1672248074.471214290] [listener]: Listen: 61 ``
+ `` ・・・ ``
  
  ## LICENSE
 
