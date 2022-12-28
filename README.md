@@ -4,6 +4,7 @@
  ## 実行例
  * 端末を二つ開く
    * 端末1
+   '' $ ros2 run mypkg talker ''
  
  ## LICENSE
 
