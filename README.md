@@ -4,11 +4,11 @@
  ## 実行方法
  * 端末を二つ開く
    * 端末1
-      ```
-      $ ros2 run mypkg talker
-      ```
+   
+      `` $ ros2 run mypkg talker ``
      
    * 端末2
+   
       `` $ ros2 run mypkg listener ``
      
  * 実行例
