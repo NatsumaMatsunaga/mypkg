@@ -1,6 +1,8 @@
 # mypkg
  * このリポジトリはROS2のパッケージである。
 
+![test](https://github.com/NatsumaMatsunaga/mypkg/actions/workflows/test.yml/badge.svg)
+
  ## ノード
  * talker.py
    * パブリッシャを担うノードであり、数字をカウントしトピック/countupを通じてlistener.pyに送信する。
