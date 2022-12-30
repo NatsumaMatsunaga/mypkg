@@ -15,7 +15,8 @@
  
  ## 実行方法
  * インストール
- ``
+ 
+ `` git clone https://github.com/NatsumaMatsunaga/mypkg.git ``
  
  * 端末を二つ開く
    * 端末1
