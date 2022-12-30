@@ -35,7 +35,8 @@
  
  ## 必要なソフトウェア
  * テスト済み: Python 3.7~3.10
- * ros2 humble
+ * ros2 
+   * バージョン: humble
  
  ## テスト環境
  * Ubuntu 20.04.5 LTS
