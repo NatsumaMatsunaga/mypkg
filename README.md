@@ -1,5 +1,5 @@
 # mypkg
- * このリポジトリはROS2のパッケージである。
+ * このリポジトリはROS2のパッケージです。
 
 ![test](https://github.com/NatsumaMatsunaga/mypkg/actions/workflows/test.yml/badge.svg)
 
