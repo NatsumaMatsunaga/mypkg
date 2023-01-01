@@ -1,17 +1,23 @@
 # mypkg
- * このリポジトリはROS2のパッケージである。
+ * このリポジトリはROS2のパッケージです。
+
+![test](https://github.com/NatsumaMatsunaga/mypkg/actions/workflows/test.yml/badge.svg)
 
  ## ノード
  * talker.py
-   * パブリッシャを担うノードであり、数字をカウントしトピック/countupを通じてlistener.pyに送信する。
+   * パブリッシャを持つノードであり、数字をカウントしトピック/countupを通じてlistener.pyに送信する。
    * メッセージの型は16ビット符号つき整数
 
    
  * listener.py
-   * サブスクライバを担うノードであり、トピック/countupからメッセージをもらい、talker.pyがカウントした数字を表示する。
+   * サブスクライバを持つノードであり、トピック/countupからメッセージをもらい、talker.pyがカウントした数字を表示する。
  
  
  ## 実行方法
+ * インストール
+ 
+   `` $ git clone https://github.com/NatsumaMatsunaga/mypkg.git ``
+ 
  * 端末を二つ開く
    * 端末1
    
@@ -32,11 +38,13 @@
  ```
  
  ## 必要なソフトウェア
- * テスト済み: Python 3.7~3.10
+ * Python 
+ * ros2 
+   * バージョン: humble
  
  ## テスト環境
  * Ubuntu 20.04.5 LTS
  
  ## LICENSE
  * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
- * © 2022 Ryuichi Ueda
+ * © 2022 Natsuma Matsunaga
